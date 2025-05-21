@@ -10,4 +10,4 @@ print(type(z))
 
 import random
 print("Random number:")
-print(random.randrange(1, 1000))
+print(random.randrange(1, 1000000))
